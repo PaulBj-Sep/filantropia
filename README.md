@@ -7,3 +7,5 @@ My very first project
 ##I am struggling to get images to my project although can't understand where i do mistakes!
 
 ##Keep trying
+
+<img src="filantropia/tim-mossholder.jpg">
