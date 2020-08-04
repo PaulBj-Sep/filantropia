@@ -4,6 +4,6 @@ My very first project
 
 [Filantropia](https://paulbj-sep.github.io/filantropia/)
 
-##I strive to get images to my project although can't understand where i do mistakes!
+##I am struggling to get images to my project although can't understand where i do mistakes!
 
 ##Keep trying
